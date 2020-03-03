@@ -1,0 +1,1002 @@
+[
+  {
+    "Name": "Sword Prowess Lv 1",
+    "Description": "Grants Hit +5, Avo +7, and Crit Avo +5 when using a sword."
+  },
+  {
+    "Name": "Sword Prowess Lv 2",
+    "Description": "Grants Hit +6, Avo +10, and Crit Avo +6 when using a sword."
+  },
+  {
+    "Name": "Sword Prowess Lv 3",
+    "Description": "Grants Hit +7, Avo +13, and Crit Avo +7 when using a sword."
+  },
+  {
+    "Name": "Sword Prowess Lv 4",
+    "Description": "Grants Hit +8, Avo +16, and Crit Avo +8 when using a sword."
+  },
+  {
+    "Name": "Sword Prowess Lv 5",
+    "Description": "Grants Hit +10, Avo +20, and Crit Avo +10 when using a sword."
+  },
+  {
+    "Name": "Lance Prowess Lv 1",
+    "Description": "Grants Hit +6, Avo +6, and Crit Avo +5 when using a lance."
+  },
+  {
+    "Name": "Lance Prowess Lv 2",
+    "Description": "Grants Hit +8, Avo +8, and Crit Avo +6 when using a lance."
+  },
+  {
+    "Name": "Lance Prowess Lv 3",
+    "Description": "Grants Hit +10, Avo +10, and Crit Avo +7 when using a lance."
+  },
+  {
+    "Name": "Lance Prowess Lv 4",
+    "Description": "Grants Hit +12, Avo +12, and Crit Avo +8 when using a lance."
+  },
+  {
+    "Name": "Lance Prowess Lv 5",
+    "Description": "Grants Hit +15, Avo +15, and Crit Avo +10 when using a lance."
+  },
+  {
+    "Name": "Axe Prowess Lv 1",
+    "Description": "Grants Hit +7, Avo +5, and Crit Avo +5 when using an axe."
+  },
+  {
+    "Name": "Axe Prowess Lv 2",
+    "Description": "Grants Hit +10, Avo +6, and Crit Avo +6 when using an axe."
+  },
+  {
+    "Name": "Axe Prowess Lv 3",
+    "Description": "Grants Hit +13, Avo +7, and Crit Avo +7 when using an axe."
+  },
+  {
+    "Name": "Axe Prowess Lv 4",
+    "Description": "Grants Hit +16, Avo +8, and Crit Avo +8 when using an axe."
+  },
+  {
+    "Name": "Axe Prowess Lv 5",
+    "Description": "Grants Hit +20, Avo +10, and Crit Avo +10 when using an axe."
+  },
+  {
+    "Name": "Bow Prowess Lv 1",
+    "Description": "Grants Hit +6, Avo +6, and Crit Avo +5 when using a bow."
+  },
+  {
+    "Name": "Bow Prowess Lv 2",
+    "Description": "Grants Hit +8, Avo +8, and Crit Avo +6 when using a bow."
+  },
+  {
+    "Name": "Bow Prowess Lv 3",
+    "Description": "Grants Hit +10, Avo +10, and Crit Avo +7 when using a bow."
+  },
+  {
+    "Name": "Bow Prowess Lv 4",
+    "Description": "Grants Hit +12, Avo +12, and Crit Avo +8 when using a bow."
+  },
+  {
+    "Name": "Bow Prowess Lv 5",
+    "Description": "Grants Hit +15, Avo +15, and Crit Avo +10 when using a bow."
+  },
+  {
+    "Name": "Brawling Prowess Lv 1",
+    "Description": "Grants Hit +5, Avo +7, and Crit Avo +5 when brawling."
+  },
+  {
+    "Name": "Brawling Prowess Lv 2",
+    "Description": "Grants Hit +6, Avo +10, and Crit Avo +6 when brawling."
+  },
+  {
+    "Name": "Brawling Prowess Lv 3",
+    "Description": "Grants Hit +7, Avo +13, and Crit Avo +7 when brawling."
+  },
+  {
+    "Name": "Brawling Prowess Lv 4",
+    "Description": "Grants Hit +8, Avo +16, and Crit Avo +8 when brawling."
+  },
+  {
+    "Name": "Brawling Prowess Lv 5",
+    "Description": "Grants Hit +10, Avo +20, and Crit Avo +10 when brawling."
+  },
+  {
+    "Name": "Reason Lv 1",
+    "Description": "Grants Hit +7, Avo +5, and Crit Avo +5 when using black or dark magic."
+  },
+  {
+    "Name": "Reason Lv 2",
+    "Description": "Grants Hit +10, Avo +6, and Crit Avo +6 when using black or dark magic."
+  },
+  {
+    "Name": "Reason Lv 3",
+    "Description": "Grants Hit +13, Avo +7, and Crit Avo +7 when using black or dark magic."
+  },
+  {
+    "Name": "Reason Lv 4",
+    "Description": "Grants Hit +16, Avo +8, and Crit Avo +8 when using black or dark magic."
+  },
+  {
+    "Name": "Reason Lv 5",
+    "Description": "Grants Hit +20, Avo +10, and Crit Avo +10 when using black or dark magic."
+  },
+  {
+    "Name": "Faith Lv 1",
+    "Description": "Grants Hit +5, Avo +7, and Crit Avo +5 when using white magic."
+  },
+  {
+    "Name": "Faith Lv 2",
+    "Description": "Grants Hit +6, Avo +10, and Crit Avo +6 when using white magic."
+  },
+  {
+    "Name": "Faith Lv 3",
+    "Description": "Grants Hit +7, Avo +13, and Crit Avo +7 when using white magic."
+  },
+  {
+    "Name": "Faith Lv 4",
+    "Description": "Grants Hit +8, Avo +16, and Crit Avo +8 when using white magic."
+  },
+  {
+    "Name": "Faith Lv 5",
+    "Description": "Grants Hit +10, Avo +20, and Crit Avo +10 when using white magic."
+  },
+  {
+    "Name": "Authority Lv 1",
+    "Description": "Grants Mt +2 with gambits."
+  },
+  {
+    "Name": "Authority Lv 2",
+    "Description": "Grants Mt +4 with gambits."
+  },
+  {
+    "Name": "Authority Lv 3",
+    "Description": "Grants Mt +6 with gambits."
+  },
+  {
+    "Name": "Authority Lv 4",
+    "Description": "Grants Mt +8 with gambits."
+  },
+  {
+    "Name": "Authority Lv 5",
+    "Description": "Grants Mt +10 with gambits."
+  },
+  {
+    "Name": "Swordfaire",
+    "Description": "Grants Atk +5 when using a sword."
+  },
+  {
+    "Name": "Lancefaire",
+    "Description": "Grants Atk +5 when using a lance."
+  },
+  {
+    "Name": "Axefaire",
+    "Description": "Grants Atk +5 when using an axe."
+  },
+  {
+    "Name": "Bowfaire",
+    "Description": "Grants Atk +5 when using a bow."
+  },
+  {
+    "Name": "Fistfaire",
+    "Description": "Grants Atk +5 when brawling."
+  },
+  {
+    "Name": "Black Tomefaire",
+    "Description": "Grants Atk +5 when using black magic."
+  },
+  {
+    "Name": "White Tomefaire",
+    "Description": "Grants Atk +5 when using white magic."
+  },
+  {
+    "Name": "Dark Tomefaire",
+    "Description": "Grants Atk +5 when using dark magic."
+  },
+  {
+    "Name": "Sword Crit +10",
+    "Description": "Grants Crit +10 when using a sword."
+  },
+  {
+    "Name": "Lance Crit +10",
+    "Description": "Grants Crit +10 when using a lance."
+  },
+  {
+    "Name": "Axe Crit +10",
+    "Description": "Grants Crit +10 when using an axe."
+  },
+  {
+    "Name": "Bow Crit +10",
+    "Description": "Grants Crit +10 when using a bow."
+  },
+  {
+    "Name": "Brawl Crit +10",
+    "Description": "Grants Crit +10 when brawling."
+  },
+  {
+    "Name": "Black Magic Crit +10",
+    "Description": "Grants Crit +10 when using black magic."
+  },
+  {
+    "Name": "White Magic Crit +10",
+    "Description": "When using white magic, Grants Crit +10 ."
+  },
+  {
+    "Name": "Dark Magic Crit +10",
+    "Description": "When using dark magic, Grants Crit +10 ."
+  },
+  {
+    "Name": "Sword Avo +20",
+    "Description": "Grants Avo +20 when using a sword."
+  },
+  {
+    "Name": "Lance Avo +20",
+    "Description": "When using a lance, Grants Avo +20 ."
+  },
+  {
+    "Name": "Axe Avo +20",
+    "Description": "Grants Avo +20 when using an axe."
+  },
+  {
+    "Name": "Bow Avo +20",
+    "Description": "Grants Avo +20 when using a bow."
+  },
+  {
+    "Name": "Brawl Avo +20",
+    "Description": "Grants Avo +20 when brawling."
+  },
+  {
+    "Name": "Black Magic Avo +20",
+    "Description": "Grants Avo +20 when using black magic."
+  },
+  {
+    "Name": "White Magic Avo +20",
+    "Description": "Grants Avo +20 when using white magic."
+  },
+  {
+    "Name": "Dark Magic Avo +20",
+    "Description": "When using dark magic, Grants Avo +20 ."
+  },
+  {
+    "Name": "HP +5",
+    "Description": "Increases maximum HP by 5."
+  },
+  {
+    "Name": "Strength +2",
+    "Description": "Increases Str by 2."
+  },
+  {
+    "Name": "Magic +2",
+    "Description": "Increases Mag by 2."
+  },
+  {
+    "Name": "Dexterity +4",
+    "Description": "Increases Dex by 4."
+  },
+  {
+    "Name": "Speed +2",
+    "Description": "Increases Spd by 2."
+  },
+  {
+    "Name": "Pomp & Circumstance",
+    "Description": "Grants Lck/Cha +4."
+  },
+  {
+    "Name": "Defense +2",
+    "Description": "Increases Def by 2."
+  },
+  {
+    "Name": "Resistance +2",
+    "Description": "Increases Res by 2."
+  },
+  {
+    "Name": "Movement +1",
+    "Description": "Increases Mv by 1."
+  },
+  {
+    "Name": "Hit +20",
+    "Description": "Increases Hit by 20."
+  },
+  {
+    "Name": "Avo +10",
+    "Description": "Increases Avo by 10."
+  },
+  {
+    "Name": "Crit +20",
+    "Description": "Increases Crit by 20."
+  },
+  {
+    "Name": "Defiant Str",
+    "Description": "Grants Str +8 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Mag",
+    "Description": "Grants Mag +8 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Spd",
+    "Description": "Grants Spd +8 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Def",
+    "Description": "Grants Def +8 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Res",
+    "Description": "Grants Res +8 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Avo",
+    "Description": "Grants Avo +30 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Defiant Crit",
+    "Description": "Grants Crit +50 when HP is \u2264 25%."
+  },
+  {
+    "Name": "Imperial Lineage",
+    "Description": "Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Royal Lineage",
+    "Description": "Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Leicester Lineage",
+    "Description": "Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Mastermind",
+    "Description": "Doubles skill experience earned in battle."
+  },
+  {
+    "Name": "Death Blow",
+    "Description": "If unit initiates combat, grants Str +6 during combat."
+  },
+  {
+    "Name": "Fiendish Blow",
+    "Description": "If unit initiates combat, grants Mag +6 during combat"
+  },
+  {
+    "Name": "Darting Blow",
+    "Description": "If unit initiates combat, grants AS +6 during combat"
+  },
+  {
+    "Name": "Armored Blow",
+    "Description": "If unit initiates combat, grants Def +6 during combat"
+  },
+  {
+    "Name": "Warding Blow",
+    "Description": "If unit initiates combat, grants Res +6 during combat"
+  },
+  {
+    "Name": "Officer Duty",
+    "Description": "Grants Mt +5 with gambits."
+  },
+  {
+    "Name": "Lady Knight",
+    "Description": "Grants Mt +3 and Hit +5 with gambits."
+  },
+  {
+    "Name": "Watchful Eye",
+    "Description": "Grants Hit +20."
+  },
+  {
+    "Name": "Distinguished House",
+    "Description": "Unit deals 2 extra damage while in formation with a battalion."
+  },
+  {
+    "Name": "Veteran Knight",
+    "Description": "Unit takes 2 less damage while in formation with a battalion."
+  },
+  {
+    "Name": "Charm",
+    "Description": "Adjacent allies deal 3 extra damage during combat."
+  },
+  {
+    "Name": "Advocate",
+    "Description": "Adjacent male allies deal 3 extra damage during combat."
+  },
+  {
+    "Name": "Guardian",
+    "Description": "Adjacent female allies deal 3 extra damage during combat."
+  },
+  {
+    "Name": "Lily\u2019s Poise",
+    "Description": "Adjacent allies take 3 less damage during combat."
+  },
+  {
+    "Name": "Infirmary Master",
+    "Description": "Adjacent allies gain Crit Avo +10 during combat."
+  },
+  {
+    "Name": "Philanderer",
+    "Description": "If a female ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat."
+  },
+  {
+    "Name": "Rivalry",
+    "Description": "If a male ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat."
+  },
+  {
+    "Name": "Born Fighter",
+    "Description": "Adjacent foes suffer Avo -10 during combat."
+  },
+  {
+    "Name": "Rally Strength",
+    "Description": "Use Rally to grant Str +4 to an ally."
+  },
+  {
+    "Name": "Rally Magic",
+    "Description": "Use Rally to grant Mag +4 to an ally."
+  },
+  {
+    "Name": "Rally Speed",
+    "Description": "Use Rally to grant Spd +4 to an ally."
+  },
+  {
+    "Name": "Rally Defense",
+    "Description": "Use Rally to grant Def +4 to an ally."
+  },
+  {
+    "Name": "Rally Resistance",
+    "Description": "Use Rally to grant Res +4 to an ally."
+  },
+  {
+    "Name": "Rally Movement",
+    "Description": "Use Rally to grant Mv +1 to an ally."
+  },
+  {
+    "Name": "Rally Dexterity",
+    "Description": "Use Rally to grant Dex +8 to an ally."
+  },
+  {
+    "Name": "Rally Luck",
+    "Description": "Use Rally to grant Lck +8 to an ally."
+  },
+  {
+    "Name": "Rally Charm",
+    "Description": "Use Rally to grant Cha +8 to an ally."
+  },
+  {
+    "Name": "Seal Strength",
+    "Description": "If unit damages foe during combat, foe suffers Str -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Seal Magic",
+    "Description": "If unit damages foe during combat, foe suffers Mag -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Seal Speed",
+    "Description": "If unit damages foe during combat, foe suffers Spd -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Seal Defense",
+    "Description": "If unit damages foe during combat, foe suffers Def -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Seal Resistance",
+    "Description": "If unit damages foe during combat, foe suffers Res -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Seal Movement",
+    "Description": "If unit damages foe during combat, foe suffers Mv -1 for 1 turn after combat."
+  },
+  {
+    "Name": "Heartseeker",
+    "Description": "Adjacent foes suffer Avo -20 during combat."
+  },
+  {
+    "Name": "Swordbreaker+",
+    "Description": "Grants Hit/Avo +30 when using a lance against sword users."
+  },
+  {
+    "Name": "Lancebreaker+",
+    "Description": "Grants Hit/Avo +30 when using an axe against lance users."
+  },
+  {
+    "Name": "Axebreaker+",
+    "Description": "Grants Hit/Avo +30 when using a sword against axe users."
+  },
+  {
+    "Name": "Bowbreaker",
+    "Description": "Grants Hit/Avo +20 when using magic against bow users."
+  },
+  {
+    "Name": "Fistbreaker",
+    "Description": "Grants Hit/Avo +20 when using a bow against brawlers."
+  },
+  {
+    "Name": "Tomebreaker",
+    "Description": "Grants Hit/Avo +20 when brawling against magic users."
+  },
+  {
+    "Name": "Model Leader",
+    "Description": "Doubles experience earned for battalions."
+  },
+  {
+    "Name": "Defensive Tactics",
+    "Description": "Battalion endurance takes half damage."
+  },
+  {
+    "Name": "Offensive Tactics",
+    "Description": "Grants Mt +5 and Hit +20 with gambits."
+  },
+  {
+    "Name": "Fire",
+    "Description": "Allows unit to cast Fire. If Fire is already available, then unit can cast it twice as often."
+  },
+  {
+    "Name": "Miasma \u0394",
+    "Description": "Allows unit to cast Miasma \u0394. If Miasma \u0394 is already available, then unit can cast it twice as often."
+  },
+  {
+    "Name": "Heal",
+    "Description": "Allows unit to cast Heal. If Heal is already available, then unit can cast it twice as often."
+  },
+  {
+    "Name": "Renewal",
+    "Description": "Unit recovers up to 20% of max HP at the start of each turn."
+  },
+  {
+    "Name": "Catnap",
+    "Description": "If unit takes no action except Wait, recovers up to 10% of max HP."
+  },
+  {
+    "Name": "Goody Basket",
+    "Description": "Chance to recover up to 10% of max HP at the start of each turn. Trigger % = Lck stat."
+  },
+  {
+    "Name": "Songstress",
+    "Description": "Adjacent allies recover up to 10% of max HP at the start of each turn."
+  },
+  {
+    "Name": "Hunter\u2019s Boon",
+    "Description": "Grants Crit +20 when foe\u2019s HP is ? 50%."
+  },
+  {
+    "Name": "Poison Strike",
+    "Description": "If unit initiates combat and lands a hit, targeted foe loses up to 20% of max HP after combat."
+  },
+  {
+    "Name": "Live to Serve",
+    "Description": "When healing an ally with white magic, unit recovers the same amount of HP."
+  },
+  {
+    "Name": "Lifetaker",
+    "Description": "Unit recovers HP equal to 50% of damage dealt after defeating a foe."
+  },
+  {
+    "Name": "Survival Instinct",
+    "Description": "If unit initiates combat and defeats foe, grants Str/Mag/Dex/Spd +4 for one turn."
+  },
+  {
+    "Name": "Lethality",
+    "Description": "Chance to instantly kill a foe when dealing damage. Trigger % = 0.25\u00d7Dex."
+  },
+  {
+    "Name": "Poison",
+    "Description": "Chance to inflict poison on foe when dealing damage. Trigger % = Dex stat."
+  },
+  {
+    "Name": "Pavise",
+    "Description": "Chance to reduce sword/lance/axe/brawling damage by half. Trigger % = Dex stat."
+  },
+  {
+    "Name": "Aegis",
+    "Description": "Chance to reduce bow/magic damage by half. Trigger % = Dex stat."
+  },
+  {
+    "Name": "Miracle",
+    "Description": "Chance to survive lethal damage with 1 HP, if HP is > 1. Trigger % = Lck stat."
+  },
+  {
+    "Name": "Terrain Resistance",
+    "Description": "Nullifies damage from terrain."
+  },
+  {
+    "Name": "Special Dance",
+    "Description": "When using the Dance ability, grant Dex/Spd/Lck +4 to target ally."
+  },
+  {
+    "Name": "Paragon",
+    "Description": "Doubles experience earned."
+  },
+  {
+    "Name": "Professor\u2019s Guidance",
+    "Description": "Multiplies this unit\u2019s and adjacent allies\u2019 experience earned by 1.2."
+  },
+  {
+    "Name": "Discipline",
+    "Description": "Doubles skill experience earned in battle."
+  },
+  {
+    "Name": "Aptitude",
+    "Description": "Makes each stat 20% more likely to increase on level up."
+  },
+  {
+    "Name": "Vantage",
+    "Description": "When foe initiates combat, unit still attacks first if HP is \u2264 50%."
+  },
+  {
+    "Name": "Missing Number",
+    "Description": "Missing Number (icon is based on Wary Fighter)"
+  },
+  {
+    "Name": "Desperation",
+    "Description": "If unit initiates combat with HP \u2264 50%, unit\u2019s follow-up attack (if possible) occurs before foe\u2019s counterattack."
+  },
+  {
+    "Name": "Quick Riposte",
+    "Description": "If foe initiates combat while unit\u2019s HP is \u2265 50%, unit makes guaranteed follow-up attack."
+  },
+  {
+    "Name": "Wrath",
+    "Description": "If foe initiates combat while unit\u2019s HP is \u2264 50%, grants Crit +50."
+  },
+  {
+    "Name": "Dance",
+    "Description": "Use Dance to allow an ally to move again."
+  },
+  {
+    "Name": "Steal",
+    "Description": "Allows unit to steal a non-weapon item from a foe with a lower Spd stat."
+  },
+  {
+    "Name": "Locktouch",
+    "Description": "Allows unit to open doors and chests without keys."
+  },
+  {
+    "Name": "Stealth",
+    "Description": "Makes it more difficult for foes to target unit."
+  },
+  {
+    "Name": "Canto",
+    "Description": "Allows unit to move again after completing certain actions, if there is movement remaining."
+  },
+  {
+    "Name": "Pass",
+    "Description": "Allows unit to pass through spaces occupied by foes."
+  },
+  {
+    "Name": "Swordbreaker",
+    "Description": "Grants Hit/Avo +20 when using a lance against sword users."
+  },
+  {
+    "Name": "Lancebreaker",
+    "Description": "Grants Hit/Avo +20 when using an axe against lance users."
+  },
+  {
+    "Name": "Bowrange +1",
+    "Description": "Increases bow range by 1."
+  },
+  {
+    "Name": "Bowrange +2",
+    "Description": "Increases bow range by 2."
+  },
+  {
+    "Name": "Black Magic Range +1",
+    "Description": "Increases black magic range by 1."
+  },
+  {
+    "Name": "Dark Magic Range +1",
+    "Description": "Increases dark magic range by 1."
+  },
+  {
+    "Name": "White Magic Range +1",
+    "Description": "Increases white magic range by 1 for attacks that damage foes."
+  },
+  {
+    "Name": "Unarmed Combat",
+    "Description": "Allows unit to fight without a weapon."
+  },
+  {
+    "Name": "Black Magic Uses x2",
+    "Description": "Doubles the number of uses for black magic."
+  },
+  {
+    "Name": "Dark Magic Uses x2",
+    "Description": "Doubles the number of uses for dark magic."
+  },
+  {
+    "Name": "White Magic Uses x2",
+    "Description": "Doubles the number of uses for white magic."
+  },
+  {
+    "Name": "White Magic Heal +5",
+    "Description": "Heal 5 extra HP when using white magic."
+  },
+  {
+    "Name": "White Magic Heal +10",
+    "Description": "Heal 10 extra HP when using white magic."
+  },
+  {
+    "Name": "Weight -3",
+    "Description": "Reduces total equipment weight by 3."
+  },
+  {
+    "Name": "Weight -5",
+    "Description": "Reduces total equipment weight by 5."
+  },
+  {
+    "Name": "Axebreaker",
+    "Description": "Grants Hit/Avo +20 when using a sword against axe users."
+  },
+  {
+    "Name": "Unsealable Magic",
+    "Description": "Prevents unit from being silenced."
+  },
+  {
+    "Name": "Immune Status",
+    "Description": "Nullifies status effects and debuffs."
+  },
+  {
+    "Name": "General",
+    "Description": "Nullifies instant death effects and halves damage from enemy gambits."
+  },
+  {
+    "Name": "Commander",
+    "Description": "Nullifies instant death effects, status effects, and movement effects, and greatly reduces damage from enemy gambits."
+  },
+  {
+    "Name": "Infinite Magic",
+    "Description": "Removes the limitation on the number of times magic can be used."
+  },
+  {
+    "Name": "Magic Bind",
+    "Description": "If unit lands a hit, targeted foe is unable to use magic for 1 turn."
+  },
+  {
+    "Name": "Infantry Effect Null",
+    "Description": "Cancels effectiveness against infantry units."
+  },
+  {
+    "Name": "Armored Effect Null",
+    "Description": "Nullifies any extra effectiveness against armored units."
+  },
+  {
+    "Name": "Cavalry Effect Null",
+    "Description": "Nullifies any extra effectiveness against cavalry units."
+  },
+  {
+    "Name": "Flying Effect Null",
+    "Description": "Nullifies any extra effectiveness against fliers."
+  },
+  {
+    "Name": "Dragon Effect Null",
+    "Description": "Cancels effectiveness against dragons."
+  },
+  {
+    "Name": "Monster Effect Null",
+    "Description": "Nullifies any extra effectiveness against monsters."
+  },
+  {
+    "Name": "Effect Null",
+    "Description": "Cancels all types of effectiveness."
+  },
+  {
+    "Name": "Air of Intimidation",
+    "Description": "On Hold"
+  },
+  {
+    "Name": "Vital Defense",
+    "Description": "Makes critical hits against this unit impossible."
+  },
+  {
+    "Name": "Giant Wings",
+    "Description": "Grants Avo +30 against sword, lance, or axe users."
+  },
+  {
+    "Name": "Anti-Magic Armor",
+    "Description": "Nullifies damage from magic attacks."
+  },
+  {
+    "Name": "Divine Dragon Horn",
+    "Description": "Unit recovers 100% of HP at the start of each turn if a White Beast is within 10 spaces."
+  },
+  {
+    "Name": "Path of the Conqueror",
+    "Description": "On Hold"
+  },
+  {
+    "Name": "Noncombatant",
+    "Description": "Unit cannot be targeted by foes."
+  },
+  {
+    "Name": "Battalion Desperation",
+    "Description": "If unit initiates combat when battalion endurance is \u2264 1/3, unit\u2019s follow-up attack (if possible) occurs before foe\u2019s counterattack."
+  },
+  {
+    "Name": "Cursed Power",
+    "Description": "Unit recovers HP on swamp terrain."
+  },
+  {
+    "Name": "Anchor",
+    "Description": "Prevents unit from being moved."
+  },
+  {
+    "Name": "Counterattack",
+    "Description": "Allows unit to counterattack regardless of distance to attacker."
+  },
+  {
+    "Name": "Twin Crests",
+    "Description": "Allows unit to take two actions in one turn."
+  },
+  {
+    "Name": "Ancient Dragon Wrath",
+    "Description": "Calculates damage using the lower of foe\u2019s Prt or Rsl."
+  },
+  {
+    "Name": "Surging Light",
+    "Description": "Performs Staggering Blow immediately."
+  },
+  {
+    "Name": "Ancient Dragonskin",
+    "Description": "Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved."
+  },
+  {
+    "Name": "Keen Intuition",
+    "Description": "Grants Avo +30 during combat with a foe 2 or more spaces away."
+  },
+  {
+    "Name": "Staunch Shield",
+    "Description": "If unit takes no action except Wait, grants Def +4 for 1 turn."
+  },
+  {
+    "Name": "Lone Wolf",
+    "Description": "Unit deals 5 extra damage when no battalion is assigned or when battalion endurance is 0."
+  },
+  {
+    "Name": "Fighting Spirit",
+    "Description": "Unit takes 5 less damage when no battalion is assigned or when battalion endurance is 0."
+  },
+  {
+    "Name": "Confidence",
+    "Description": "Grants Hit/Avo +15 when unit is at full HP."
+  },
+  {
+    "Name": "Persecution Complex",
+    "Description": "Grants Atk +5 when unit is not at full HP."
+  },
+  {
+    "Name": "Animal Friend",
+    "Description": "Unit recovers up to 20% of max HP at the start of each turn when adjacent to a cavalry or flying ally."
+  },
+  {
+    "Name": "Perseverance",
+    "Description": "Use Rally to grant Str +4 to an ally."
+  },
+  {
+    "Name": "Crest Scholar",
+    "Description": "Use Rally to grant Mag +4 to an ally."
+  },
+  {
+    "Name": "Compassion",
+    "Description": "Use Rally to grant Lck +8 to an ally."
+  },
+  {
+    "Name": "Lockpick",
+    "Description": "Allows unit to open doors and chests without keys."
+  },
+  {
+    "Name": "Battalion Vantage",
+    "Description": "When foe initiates combat, unit still attacks first if battalion endurance is \u2264 1/3."
+  },
+  {
+    "Name": "Battalion Wrath",
+    "Description": "If foe initiates combat while unit\u2019s battalion endurance is \u2264 1/3, grants Crit +50."
+  },
+  {
+    "Name": "Battalion Renewal",
+    "Description": "Unit recovers up to 30% of max HP at the start of each turn while battalion endurance is \u2264 1/3."
+  },
+  {
+    "Name": "Black Magic Uses Up+",
+    "Description": "Quadruples the number of uses for black magic."
+  },
+  {
+    "Name": "Dark Magic Uses x4",
+    "Description": "Quadruples the number of uses for dark magic."
+  },
+  {
+    "Name": "White Magic Uses Up+",
+    "Description": "Quadruples the number of uses for white magic."
+  },
+  {
+    "Name": "Mighty King of Legend",
+    "Description": "Negates 1 attack per turn and strengthens stats while the 10 Elites are present."
+  },
+  {
+    "Name": "10 Elites",
+    "Description": "Grants power to the Mighty King of Legend."
+  },
+  {
+    "Name": "Alert Stance",
+    "Description": "If unit takes no action except Wait, grants Avo +15 for 1 turn."
+  },
+  {
+    "Name": "Alert Stance+",
+    "Description": "If unit takes no action except Wait, grants Avo +30 for 1 turn."
+  },
+  {
+    "Name": "Close Counter",
+    "Description": "Allows unit to counterattack adjacent foes."
+  },
+  {
+    "Name": "Professor\u2019s Guidance+",
+    "Description": "Unit deals 2 extra damage during combat. Multiplies this unit\u2019s and adjacent allies\u2019 experience earned by 1.2."
+  },
+  {
+    "Name": "Imperial Lineage+",
+    "Description": "If unit takes no action except Wait, grants Res +4 for 1 turn. Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Royal Lineage+",
+    "Description": "Grants Avo +20 while unit is at full HP. Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Leicester Lineage+",
+    "Description": "Allows unit to pass through spaces occupied by foes. Multiplies experience earned by 1.2."
+  },
+  {
+    "Name": "Murderous Intent",
+    "Description": "If unit initiates combat, grants Hit +20 during combat."
+  },
+  {
+    "Name": "Sacred Power",
+    "Description": "Adjacent allies deal 3 extra damage and take 3 less damage during combat."
+  },
+  {
+    "Name": "Agarthan Technology",
+    "Description": "Adjacent foes deal 3 less damage during combat."
+  },
+  {
+    "Name": "Blade Breaker",
+    "Description": "If unit damages foe, foe suffers Str/Def -6 for 1 turn after combat."
+  },
+  {
+    "Name": "Lucky Seven",
+    "Description": "Each turn, grants +5 to one of the following stats: Str, Mag, Spd, Def, Res, Hit, or Avo."
+  },
+  {
+    "Name": "Transmute",
+    "Description": "If unit is hit with a magic attack during enemy phase, grants +3 to all stats until next player phase ends."
+  },
+  {
+    "Name": "Honorable Spirit",
+    "Description": "If unit is not near an ally, grants Atk +3 when in combat with a foe one space away."
+  },
+  {
+    "Name": "King of Grappling",
+    "Description": "Grants Str/Def +6 when HP is <=50%."
+  },
+  {
+    "Name": "Circadian Beat",
+    "Description": "Grants Str/Mag +3 when indoors and Def/Res +3 when outdoors."
+  },
+  {
+    "Name": "Monstrous Appeal",
+    "Description": "Makes all attacks effective against monsters and makes it easier for monsters to target unit."
+  },
+  {
+    "Name": "Business Prosperity",
+    "Description": "Grants Lck +5."
+  },
+  {
+    "Name": "Umbral Leech",
+    "Description": "Unit absorbs HP from phantoms."
+  },
+  {
+    "Name": "Manifest Phantom",
+    "Description": "Unit births phantoms."
+  },
+  {
+    "Name": "Enhanced Fortitude",
+    "Description": "Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved."
+  },
+  {
+    "Name": "Duelist\u2019s Blow",
+    "Description": "If unit initiates combat, grants Avo +20 during combat."
+  },
+  {
+    "Name": "Uncanny Blow",
+    "Description": "If unit initiates combat, grants Hit +30 during combat."
+  }
+]
