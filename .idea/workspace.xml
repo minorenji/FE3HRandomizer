@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e77a27-7650-426b-a256-abbf67e410a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FE3HRandomizer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/References/Abilities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webscraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/References/FE3H Support Chart - Support.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/References/Supports.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/References/support_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/References/Abilities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/webscraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +35,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/References" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sean\PycharmProjects\FE3HRandomizer\References" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="webscraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -98,45 +97,60 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1149" height="466" key="DebuggerActiveHint" timestamp="1583299369802">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1149" height="466" key="DebuggerActiveHint/0.0.2560.1040@0.0.2560.1040" timestamp="1583299369802" />
     <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1583078851102">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1060" y="276" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1583078851102" />
-    <state width="2539" height="282" key="GridCell.Tab.0.bottom" timestamp="1583210556792">
+    <state width="2539" height="348" key="GridCell.Tab.0.bottom" timestamp="1583300179081">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583210556792" />
-    <state width="2539" height="282" key="GridCell.Tab.0.center" timestamp="1583210556792">
+    <state width="2539" height="348" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179081" />
+    <state width="2539" height="348" key="GridCell.Tab.0.center" timestamp="1583300179081">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583210556792" />
-    <state width="2539" height="282" key="GridCell.Tab.0.left" timestamp="1583210556792">
+    <state width="2539" height="348" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179081" />
+    <state width="2539" height="348" key="GridCell.Tab.0.left" timestamp="1583300179081">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583210556792" />
-    <state width="2539" height="282" key="GridCell.Tab.0.right" timestamp="1583210556792">
+    <state width="2539" height="348" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179081" />
+    <state width="2539" height="348" key="GridCell.Tab.0.right" timestamp="1583300179081">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583210556792" />
-    <state width="2539" height="348" key="GridCell.Tab.1.bottom" timestamp="1582949259569">
+    <state width="2539" height="348" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179081" />
+    <state width="2539" height="348" key="GridCell.Tab.1.bottom" timestamp="1583300179025">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1582949259569" />
-    <state width="2539" height="348" key="GridCell.Tab.1.center" timestamp="1582949259569">
+    <state width="2539" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179025" />
+    <state width="2539" height="348" key="GridCell.Tab.1.center" timestamp="1583300179025">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1582949259569" />
-    <state width="2539" height="348" key="GridCell.Tab.1.left" timestamp="1582949259569">
+    <state width="2539" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179025" />
+    <state width="2539" height="348" key="GridCell.Tab.1.left" timestamp="1583300179025">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1582949259569" />
-    <state width="2539" height="348" key="GridCell.Tab.1.right" timestamp="1582949259569">
+    <state width="2539" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179025" />
+    <state width="2539" height="348" key="GridCell.Tab.1.right" timestamp="1583300179025">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1582949259569" />
-    <state x="976" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583204775122">
+    <state width="2539" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583300179025" />
+    <state x="976" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583289023623">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="976" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583204775122" />
+    <state x="976" y="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583289023623" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583290484228">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1583290484228" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="table" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -1,0 +1,38 @@
+Instructions,Byleth (M),Byleth (F),Edelgard,Hubert,Ferdinand,Linhardt,Caspar,Bernadetta,Dorothea,Petra,Dimitri,Dedue,Felix,Ashe,Sylvain,Mercedes,Annette,Ingrid,Claude,Lorenz,Raphael,Ignatz,Lysithea,Marianne,Hilda,Leonie,Seteth,Flayn,Hanneman,Manuela,Gilbert,Alois,Catherine,Shamir,Cyril,Rhea,Sothis,R?,NR?
+Byleth (M),,,S,A,A,S,A,S,S,S,A,A,A,A,A,S,S,S,A,A,A,A,S,S,S,S,A,S,A,S,S,S,S,S,A,S,S,,x
+Byleth (F),,,S,S,S,S,S,A,S,A,S,S,S,S,S,S,A,A,S,S,S,S,A,A,A,A,S,A,S,A,S,S,A,A,S,S,S,X,
+Edelgard,S,S,,A,A,A,A,A,A,B,,,,,,,,,,,,,A,,,,,,A,A,,,,,,,,,x
+Hubert,A,S,A,,A,B,B,A,A,A,,,,,,,,,,,,,,,,,,,B,,,,,A,,,,,x
+Ferdinand,A,S,A,A,,B,B,A,A,A,,,,,,A,,,,B,,,,A,A,,,A,,A,,,,,,,,X,
+Linhardt,S,S,A,B,B,,A,A,A,A,,,,,,,A,,,,,,A,A,,,,A,B,,,,A,,,,,x,
+Caspar,A,S,A,B,B,A,,A,A,A,,,,A,,,A,,,,B,,,,A,,,,,,,,A,A,,,,X,
+Bernadetta,S,A,A,A,A,A,A,,B,B,,,A,,B,,,B,,,A,,,,,B,A,,,,,A,,,,,,x,
+Dorothea,S,S,A,A,A,A,A,B,,A,,,A,,A,,,B,,A,,,,,,,,,A,A,,,,,,,,x,
+Petra,S,A,B,A,A,A,A,B,A,,,,,A,,,,,A,,,A,,,,,,,,,,B,,B,A,,,x,
+Dimitri,A,S,,,,,,,,,,A,A,B,B,A,A,A,,,B,,,A,,,,A,,,A,B,A,,,,,,x
+Dedue,A,S,,,,,,,,,A,,B,A,B,A,A,A,,,,,,,,,,A,,,B,,,A,,,,,x
+Felix,A,S,,,,,,A,A,,A,B,,B,A,A,A,A,,,,,A,,,A,B,A,,,,,,,,,,x,
+Ashe,A,S,,,,,A,,,A,B,A,B,,B,A,A,A,,,,,,A,,,,,,,B,,A,,A,,,,x
+Sylvain,A,S,,,,,,B,A,,B,B,A,B,,A,B,A,,B,,,B,B,B,B,,B,,B,,,,,,,,,x
+Mercedes,S,S,,,A,,,,,,A,A,A,A,A,,A,B,,A,,A,,,B,,,,,,,A,,,B,,,,x
+Annette,S,A,,,,A,A,,,,A,A,A,A,B,A,,B,A,,,,B,,B,,,,A,,A,,,,,,,,x
+Ingrid,S,A,,,,,,B,B,,A,A,A,A,A,B,B,,A,,A,A,,,,,A,,,,,,B,,,,,,x
+Claude,A,S,,,,,,,,A,,,,,,,A,A,,A,B,B,A,A,A,A,,A,,,,,,A,B,,,,x
+Lorenz,A,S,,,B,,,,A,,,,,,B,A,,,A,,B,B,A,A,A,A,,,,A,,,A,,,,,,x
+Raphael,A,S,,,,,B,A,,,B,,,,,,,A,B,B,,A,A,A,A,A,,A,,,,,,A,,,,,x
+Ignatz,A,S,,,,,,,,A,,,,,,A,,A,B,B,A,,A,A,A,A,,A,,,,,,A,B,,,,x
+Lysithea,S,A,A,,,A,,,,,,,A,,B,,B,,A,A,A,A,,B,B,B,,,A,,,,B,,A,,,,x
+Marianne,S,A,,,A,A,,,,,A,,,A,B,,,,A,A,A,A,B,,A,B,,,A,,,,,,,,,x,
+Hilda,S,A,,,A,,A,,,,,,,,B,B,B,,A,A,A,A,B,A,,B,A,,,,,,,,A,,,,x
+Leonie,S,A,,,,,,B,,,,,A,,B,,,,A,A,A,A,B,B,B,,A,,,,,A,B,A,,,,,x
+Seteth,A,S,,,,,,A,,,,,B,,,,,A,,,,,,,A,A,,A,B,A,,,A,,A,,,x,
+Flayn,S,A,,,A,A,,,,,A,A,A,,B,,,,A,,A,A,,,,,A,,,A,,,,,,,,x,
+Hanneman,A,S,A,B,,B,,,A,,,,,,,,A,,,,,,A,A,,,B,,,A,B,B,,,,,,,x
+Manuela,S,A,A,,A,,,,A,,,,,,B,,,,,A,,,,,,,A,A,A,,B,A,,,B,,,,x
+Gilbert,S,S,,,,,,,,,A,B,,B,,,A,,,,,,,,,,,,B,B,,B,B,,,,,,x
+Alois,S,S,,,,,,A,,B,B,,,,,A,,,,,,,,,,A,,,B,A,B,,A,A,,,,,x
+Catherine,S,A,,,,A,A,,,,A,,,A,,,,B,,A,,,B,,,B,A,,,,B,A,,A,,,,,x
+Shamir,S,A,,A,,,A,,,B,,A,,,,,,,A,,A,A,,,,A,,,,,,A,A,,A,,,,x
+Cyril,A,S,,,,,,,,A,,,,A,,B,,,B,,,B,A,,A,,A,,,B,,,,A,,,,,x
+Rhea,S,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Sothis,S,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,
