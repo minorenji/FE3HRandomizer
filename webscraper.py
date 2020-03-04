@@ -22,12 +22,11 @@ def get_abilities():
     table_rows = [element for element in tb.find_all_next('tr')]
     abilities = []
     del table_rows[0]
-    print(table_rows)
     for row in table_rows:
         columns = row.find_all_next('td')
         abilities.append({
-            "Name": columns[1].text,
-            "Description": columns[2].text
+            "Name": columns[1].text.replace('\u2019', "'"),
+            "Description": columns[2].text.replace('\u2019', "'")
         })
     with open("References/Abilities.json", 'w') as outfile:
         json.dump(abilities, outfile, indent=2)
@@ -39,6 +38,8 @@ def get_unit_stats(unit_name: str):
         'Gender': '',
         'Crest': '',
         'Personal Ability': '',
+        'House': '',
+        'Level': '',
         'HP': 0,
         'Strength': 0,
         'Magic': 0,
@@ -57,7 +58,7 @@ def get_unit_stats(unit_name: str):
         'Defense Growth': 0,
         'Resistance Growth': 0,
         'Charm Growth': 0,
-        'Supports': [()]
+        'Supports': [{}]
     }
     """
 
@@ -65,10 +66,8 @@ def get_unit_stats(unit_name: str):
 
     if 'Byleth' in unit_name:
         url_suffix = 'Byleth'
-        if 'M' in unit_name:
-            base_stats['Gender'] = 'Male'
-        else:
-            base_stats['Gender'] = 'Female'
+    elif 'Lorenz' in unit_name:
+        url_suffix = unit_name + "_(Three_Houses)"
     else:
         url_suffix = unit_name
     url = 'https://fireemblemwiki.org/wiki/' + url_suffix
@@ -87,19 +86,52 @@ def get_unit_stats(unit_name: str):
                                                     'border:1px solid #b0b0b0; '
                                                     'background:#222222'}).tbody
         base_stats['Gender'] = t_rows.tr.td.p.get_text().strip('\n')
+    else:
+        if 'M' in unit_name:
+            base_stats['Gender'] = 'Male'
+        else:
+            base_stats['Gender'] = 'Female'
+
+    # Get base level
+    base_level = soup.find_all('td', attrs={'style': 'border: 1px solid #b0b0b0; border-top-right-radius: 5px; '
+                                                     '-moz-border-radius-topright: 5px; '
+                                                     '-webkit-border-top-right-radius: 5px; '
+                                                     '-khtml-border-top-right-radius: 5px; '
+                                                     '-icab-border-top-right-radius: 5px; -o-border-top-right-radius: '
+                                                     '5px; border-bottom-right-radius: 5px; '
+                                                     '-moz-border-radius-bottomright: 5px; '
+                                                     '-webkit-border-bottom-right-radius: 5px; '
+                                                     '-khtml-border-bottom-right-radius: 5px; '
+                                                     '-icab-border-bottom-right-radius: 5px; '
+                                                     '-o-border-bottom-right-radius: 5px;; background: #232855'})[
+        0].get_text().strip("\n")
+
+    base_stats['Level'] = base_level
 
     # Get crest
-    crest = soup.find('a', attrs={'title': 'Crests'}).parent.find_next_sibling('td')
+    crest = soup.find_all('th', attrs={'style': 'border: 2px solid #b0b0b0; border-top-left-radius: 5px; '
+                                            '-moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; '
+                                            '-khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; '
+                                            '-o-border-top-left-radius: 5px; border-bottom-left-radius: 5px; '
+                                            '-moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: '
+                                            '5px; -khtml-border-bottom-left-radius: 5px; '
+                                            '-icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: '
+                                            '5px;; background: #232855'})[1].find_next_sibling('td')
     if crest.get_text() == '--\n':
-        base_stats['Crest'] = None
+        base_stats['Crest'] = "None"
     else:
-        base_stats['Crest'] = crest.a['title']
+        base_stats['Crest'] = [c['title'] for c in crest.find_all('a')]
 
     # Get personal ability
     ability = \
     soup.find_all(attrs={'style': 'border-spacing: 3px; background: transparent'})[0].tbody.find_all('tr')[1].find_all(
         'td')[1].find_all('a')[1]['title']
     base_stats['Personal Ability'] = ability
+
+    # Get house
+    with open('References/Houses.json', 'r') as f:
+        houses = json.load(f)
+        base_stats['House'] = houses[unit_name]
 
     # Find stat tables
     stat_tb = soup.find('table', attrs={'style': 'margin-left:auto; margin-right:auto; width: 260px;'}).tbody.tr.td
@@ -140,6 +172,11 @@ def get_unit_stats(unit_name: str):
         'Resistance Growth': stats[5],
         'Charm Growth': stats[7]
     })
+
+    # Get supports
+    with open('References/Supports.json', 'r') as f:
+        supports = json.load(f)
+        base_stats['Supports'] = supports[unit_name]
     return base_stats
 
 
@@ -150,7 +187,6 @@ def get_supports_from_csv():
         columns = []
         line_number = 0
         for row in csv_reader:
-            print(row)
             if line_number == 0:
                 columns = row[:-2]
                 line_number += 1
@@ -160,16 +196,26 @@ def get_supports_from_csv():
             for index, item in enumerate(row[1:-2]):
                 if item == '':
                     continue
-                max_level = item
-                support = columns[index + 1]
-                supports.append((support, max_level))
+                support = {
+                    "Unit": columns[index + 1],
+                    "Max Rank": item
+                }
+                supports.append(support)
                 support_dict[unit] = supports
             line_number += 1
-    with open('References/Supports.json', 'w') as outfile:
+    with open('References/Supports_csv.json', 'w') as outfile:
         json.dump(support_dict, outfile, indent=2)
 
 
+def compile_unit_stats():
+    units = {}
+    for unit in unit_list:
+        print("Generating " + unit + " stats...")
+        units[unit] = get_unit_stats(unit)
+    with open("References/Units.json", 'w') as outfile:
+        json.dump(units, outfile, indent=2)
+
+
 if __name__ == "__main__":
-    # get_unit_stats('Byleth (M)')
-    get_supports()
+    get_abilities()
     pass

@@ -1,0 +1,3527 @@
+{
+  "Byleth (M)": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Crest of Flames"
+    ],
+    "Personal Ability": "Professor's Guidance",
+    "House": "None",
+    "HP": "27",
+    "Strength": "13",
+    "Magic": "6",
+    "Dexterity": "9",
+    "Speed": "8",
+    "Luck": "8",
+    "Defense": "6",
+    "Resistance": "6",
+    "Charm": "7",
+    "HP Growth": "27",
+    "Strength Growth": "13",
+    "Magic Growth": "6",
+    "Dexterity Growth": "9",
+    "Speed Growth": "8",
+    "Luck Growth": "8",
+    "Defense Growth": "6",
+    "Resistance Growth": "6",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Yuri",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Rhea",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Sothis",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Jeritza",
+        "Max Rank": "S"
+      }
+    ]
+  },
+  "Byleth (F)": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Crest of Flames"
+    ],
+    "Personal Ability": "Professor's Guidance",
+    "House": "None",
+    "HP": "27",
+    "Strength": "13",
+    "Magic": "6",
+    "Dexterity": "9",
+    "Speed": "8",
+    "Luck": "8",
+    "Defense": "6",
+    "Resistance": "6",
+    "Charm": "7",
+    "HP Growth": "27",
+    "Strength Growth": "13",
+    "Magic Growth": "6",
+    "Dexterity Growth": "9",
+    "Speed Growth": "8",
+    "Luck Growth": "8",
+    "Defense Growth": "6",
+    "Resistance Growth": "6",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Yuri",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Rhea",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Sothis",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Jeritza",
+        "Max Rank": "S"
+      }
+    ]
+  },
+  "Edelgard": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Seiros"
+    ],
+    "Personal Ability": "Imperial Lineage",
+    "House": "BE",
+    "HP": "29",
+    "Strength": "13",
+    "Magic": "6",
+    "Dexterity": "6",
+    "Speed": "8",
+    "Luck": "5",
+    "Defense": "6",
+    "Resistance": "4",
+    "Charm": "10",
+    "HP Growth": "29",
+    "Strength Growth": "13",
+    "Magic Growth": "6",
+    "Dexterity Growth": "6",
+    "Speed Growth": "8",
+    "Luck Growth": "5",
+    "Defense Growth": "6",
+    "Resistance Growth": "4",
+    "Charm Growth": "10",
+    "Supports": [
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Dimitri": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Blaiddyd"
+    ],
+    "Personal Ability": "Royal Lineage",
+    "House": "BL",
+    "HP": "28",
+    "Strength": "12",
+    "Magic": "4",
+    "Dexterity": "7",
+    "Speed": "7",
+    "Luck": "5",
+    "Defense": "7",
+    "Resistance": "4",
+    "Charm": "9",
+    "HP Growth": "28",
+    "Strength Growth": "12",
+    "Magic Growth": "4",
+    "Dexterity Growth": "7",
+    "Speed Growth": "7",
+    "Luck Growth": "5",
+    "Defense Growth": "7",
+    "Resistance Growth": "4",
+    "Charm Growth": "9",
+    "Supports": [
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Claude": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Riegan"
+    ],
+    "Personal Ability": "Leicester Lineage",
+    "House": "GD",
+    "HP": "26",
+    "Strength": "11",
+    "Magic": "5",
+    "Dexterity": "8",
+    "Speed": "8",
+    "Luck": "7",
+    "Defense": "6",
+    "Resistance": "4",
+    "Charm": "8",
+    "HP Growth": "26",
+    "Strength Growth": "11",
+    "Magic Growth": "5",
+    "Dexterity Growth": "8",
+    "Speed Growth": "8",
+    "Luck Growth": "7",
+    "Defense Growth": "6",
+    "Resistance Growth": "4",
+    "Charm Growth": "8",
+    "Supports": [
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Hubert": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Officer Duty",
+    "House": "BE",
+    "HP": "22",
+    "Strength": "6",
+    "Magic": "12",
+    "Dexterity": "6",
+    "Speed": "7",
+    "Luck": "6",
+    "Defense": "4",
+    "Resistance": "7",
+    "Charm": "6",
+    "HP Growth": "22",
+    "Strength Growth": "6",
+    "Magic Growth": "12",
+    "Dexterity Growth": "6",
+    "Speed Growth": "7",
+    "Luck Growth": "6",
+    "Defense Growth": "4",
+    "Resistance Growth": "7",
+    "Charm Growth": "6",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Ferdinand": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Cichol"
+    ],
+    "Personal Ability": "Confidence",
+    "House": "BE",
+    "HP": "28",
+    "Strength": "8",
+    "Magic": "5",
+    "Dexterity": "6",
+    "Speed": "8",
+    "Luck": "6",
+    "Defense": "6",
+    "Resistance": "2",
+    "Charm": "7",
+    "HP Growth": "28",
+    "Strength Growth": "8",
+    "Magic Growth": "5",
+    "Dexterity Growth": "6",
+    "Speed Growth": "8",
+    "Luck Growth": "6",
+    "Defense Growth": "6",
+    "Resistance Growth": "2",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Linhardt": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Cethleann"
+    ],
+    "Personal Ability": "Catnap",
+    "House": "BE",
+    "HP": "24",
+    "Strength": "5",
+    "Magic": "10",
+    "Dexterity": "6",
+    "Speed": "5",
+    "Luck": "7",
+    "Defense": "5",
+    "Resistance": "9",
+    "Charm": "3",
+    "HP Growth": "24",
+    "Strength Growth": "5",
+    "Magic Growth": "10",
+    "Dexterity Growth": "6",
+    "Speed Growth": "5",
+    "Luck Growth": "7",
+    "Defense Growth": "5",
+    "Resistance Growth": "9",
+    "Charm Growth": "3",
+    "Supports": [
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Caspar": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Born Fighter",
+    "House": "BE",
+    "HP": "26",
+    "Strength": "9",
+    "Magic": "3",
+    "Dexterity": "5",
+    "Speed": "6",
+    "Luck": "8",
+    "Defense": "6",
+    "Resistance": "2",
+    "Charm": "4",
+    "HP Growth": "26",
+    "Strength Growth": "9",
+    "Magic Growth": "3",
+    "Dexterity Growth": "5",
+    "Speed Growth": "6",
+    "Luck Growth": "8",
+    "Defense Growth": "6",
+    "Resistance Growth": "2",
+    "Charm Growth": "4",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Bernadetta": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Indech"
+    ],
+    "Personal Ability": "Persecution Complex",
+    "House": "BE",
+    "HP": "25",
+    "Strength": "8",
+    "Magic": "5",
+    "Dexterity": "7",
+    "Speed": "7",
+    "Luck": "5",
+    "Defense": "4",
+    "Resistance": "2",
+    "Charm": "6",
+    "HP Growth": "25",
+    "Strength Growth": "8",
+    "Magic Growth": "5",
+    "Dexterity Growth": "7",
+    "Speed Growth": "7",
+    "Luck Growth": "5",
+    "Defense Growth": "4",
+    "Resistance Growth": "2",
+    "Charm Growth": "6",
+    "Supports": [
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Jeritza",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Dorothea": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Songstress (ability)",
+    "House": "BE",
+    "HP": "24",
+    "Strength": "5",
+    "Magic": "11",
+    "Dexterity": "6",
+    "Speed": "7",
+    "Luck": "6",
+    "Defense": "4",
+    "Resistance": "7",
+    "Charm": "8",
+    "HP Growth": "24",
+    "Strength Growth": "5",
+    "Magic Growth": "11",
+    "Dexterity Growth": "6",
+    "Speed Growth": "7",
+    "Luck Growth": "6",
+    "Defense Growth": "4",
+    "Resistance Growth": "7",
+    "Charm Growth": "8",
+    "Supports": [
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Petra": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Hunter's Boon",
+    "House": "BE",
+    "HP": "25",
+    "Strength": "9",
+    "Magic": "3",
+    "Dexterity": "7",
+    "Speed": "10",
+    "Luck": "7",
+    "Defense": "5",
+    "Resistance": "2",
+    "Charm": "6",
+    "HP Growth": "25",
+    "Strength Growth": "9",
+    "Magic Growth": "3",
+    "Dexterity Growth": "7",
+    "Speed Growth": "10",
+    "Luck Growth": "7",
+    "Defense Growth": "5",
+    "Resistance Growth": "2",
+    "Charm Growth": "6",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Dedue": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Staunch Shield",
+    "House": "BL",
+    "HP": "30",
+    "Strength": "12",
+    "Magic": "2",
+    "Dexterity": "5",
+    "Speed": "7",
+    "Luck": "5",
+    "Defense": "8",
+    "Resistance": "1",
+    "Charm": "4",
+    "HP Growth": "30",
+    "Strength Growth": "12",
+    "Magic Growth": "2",
+    "Dexterity Growth": "5",
+    "Speed Growth": "7",
+    "Luck Growth": "5",
+    "Defense Growth": "8",
+    "Resistance Growth": "1",
+    "Charm Growth": "4",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Felix": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Crest of Fraldarius"
+    ],
+    "Personal Ability": "Lone Wolf",
+    "House": "BL",
+    "HP": "26",
+    "Strength": "10",
+    "Magic": "5",
+    "Dexterity": "6",
+    "Speed": "9",
+    "Luck": "5",
+    "Defense": "5",
+    "Resistance": "3",
+    "Charm": "5",
+    "HP Growth": "26",
+    "Strength Growth": "10",
+    "Magic Growth": "5",
+    "Dexterity Growth": "6",
+    "Speed Growth": "9",
+    "Luck Growth": "5",
+    "Defense Growth": "5",
+    "Resistance Growth": "3",
+    "Charm Growth": "5",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Ashe": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Locktouch",
+    "House": "BL",
+    "HP": "23",
+    "Strength": "8",
+    "Magic": "5",
+    "Dexterity": "8",
+    "Speed": "9",
+    "Luck": "6",
+    "Defense": "5",
+    "Resistance": "6",
+    "Charm": "5",
+    "HP Growth": "23",
+    "Strength Growth": "8",
+    "Magic Growth": "5",
+    "Dexterity Growth": "8",
+    "Speed Growth": "9",
+    "Luck Growth": "6",
+    "Defense Growth": "5",
+    "Resistance Growth": "6",
+    "Charm Growth": "5",
+    "Supports": [
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Sylvain": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Gautier"
+    ],
+    "Personal Ability": "Philanderer",
+    "House": "BL",
+    "HP": "27",
+    "Strength": "9",
+    "Magic": "5",
+    "Dexterity": "5",
+    "Speed": "8",
+    "Luck": "6",
+    "Defense": "6",
+    "Resistance": "2",
+    "Charm": "7",
+    "HP Growth": "27",
+    "Strength Growth": "9",
+    "Magic Growth": "5",
+    "Dexterity Growth": "5",
+    "Speed Growth": "8",
+    "Luck Growth": "6",
+    "Defense Growth": "6",
+    "Resistance Growth": "2",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Mercedes": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Lamine"
+    ],
+    "Personal Ability": "Live to Serve",
+    "House": "BL",
+    "HP": "25",
+    "Strength": "6",
+    "Magic": "10",
+    "Dexterity": "6",
+    "Speed": "8",
+    "Luck": "5",
+    "Defense": "5",
+    "Resistance": "9",
+    "Charm": "8",
+    "HP Growth": "25",
+    "Strength Growth": "6",
+    "Magic Growth": "10",
+    "Dexterity Growth": "6",
+    "Speed Growth": "8",
+    "Luck Growth": "5",
+    "Defense Growth": "5",
+    "Resistance Growth": "9",
+    "Charm Growth": "8",
+    "Supports": [
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Jeritza",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Annette": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Dominic"
+    ],
+    "Personal Ability": "Perseverance",
+    "House": "BL",
+    "HP": "23",
+    "Strength": "6",
+    "Magic": "11",
+    "Dexterity": "7",
+    "Speed": "7",
+    "Luck": "6",
+    "Defense": "5",
+    "Resistance": "4",
+    "Charm": "6",
+    "HP Growth": "23",
+    "Strength Growth": "6",
+    "Magic Growth": "11",
+    "Dexterity Growth": "7",
+    "Speed Growth": "7",
+    "Luck Growth": "6",
+    "Defense Growth": "5",
+    "Resistance Growth": "4",
+    "Charm Growth": "6",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Ingrid": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Daphnel"
+    ],
+    "Personal Ability": "Lady Knight",
+    "House": "BL",
+    "HP": "27",
+    "Strength": "8",
+    "Magic": "6",
+    "Dexterity": "6",
+    "Speed": "8",
+    "Luck": "6",
+    "Defense": "5",
+    "Resistance": "8",
+    "Charm": "8",
+    "HP Growth": "27",
+    "Strength Growth": "8",
+    "Magic Growth": "6",
+    "Dexterity Growth": "6",
+    "Speed Growth": "8",
+    "Luck Growth": "6",
+    "Defense Growth": "5",
+    "Resistance Growth": "8",
+    "Charm Growth": "8",
+    "Supports": [
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Lorenz": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Gloucester"
+    ],
+    "Personal Ability": "Distinguished House",
+    "House": "GD",
+    "HP": "28",
+    "Strength": "8",
+    "Magic": "7",
+    "Dexterity": "6",
+    "Speed": "7",
+    "Luck": "5",
+    "Defense": "6",
+    "Resistance": "6",
+    "Charm": "3",
+    "HP Growth": "28",
+    "Strength Growth": "8",
+    "Magic Growth": "7",
+    "Dexterity Growth": "6",
+    "Speed Growth": "7",
+    "Luck Growth": "5",
+    "Defense Growth": "6",
+    "Resistance Growth": "6",
+    "Charm Growth": "3",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Raphael": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Goody Basket",
+    "House": "GD",
+    "HP": "30",
+    "Strength": "11",
+    "Magic": "3",
+    "Dexterity": "5",
+    "Speed": "6",
+    "Luck": "6",
+    "Defense": "7",
+    "Resistance": "1",
+    "Charm": "4",
+    "HP Growth": "30",
+    "Strength Growth": "11",
+    "Magic Growth": "3",
+    "Dexterity Growth": "5",
+    "Speed Growth": "6",
+    "Luck Growth": "6",
+    "Defense Growth": "7",
+    "Resistance Growth": "1",
+    "Charm Growth": "4",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Ignatz": {
+    "Gender": "Male",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Watchful Eye",
+    "House": "GD",
+    "HP": "25",
+    "Strength": "8",
+    "Magic": "5",
+    "Dexterity": "7",
+    "Speed": "8",
+    "Luck": "8",
+    "Defense": "4",
+    "Resistance": "6",
+    "Charm": "4",
+    "HP Growth": "25",
+    "Strength Growth": "8",
+    "Magic Growth": "5",
+    "Dexterity Growth": "7",
+    "Speed Growth": "8",
+    "Luck Growth": "8",
+    "Defense Growth": "4",
+    "Resistance Growth": "6",
+    "Charm Growth": "4",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Lysithea": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Crest of Gloucester",
+      "Minor Crest of Charon"
+    ],
+    "Personal Ability": "Mastermind",
+    "House": "GD",
+    "HP": "22",
+    "Strength": "4",
+    "Magic": "11",
+    "Dexterity": "7",
+    "Speed": "7",
+    "Luck": "4",
+    "Defense": "3",
+    "Resistance": "4",
+    "Charm": "5",
+    "HP Growth": "22",
+    "Strength Growth": "4",
+    "Magic Growth": "11",
+    "Dexterity Growth": "7",
+    "Speed Growth": "7",
+    "Luck Growth": "4",
+    "Defense Growth": "3",
+    "Resistance Growth": "4",
+    "Charm Growth": "5",
+    "Supports": [
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Marianne": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of the Beast"
+    ],
+    "Personal Ability": "Animal Friend",
+    "House": "GD",
+    "HP": "23",
+    "Strength": "5",
+    "Magic": "11",
+    "Dexterity": "6",
+    "Speed": "7",
+    "Luck": "6",
+    "Defense": "4",
+    "Resistance": "8",
+    "Charm": "7",
+    "HP Growth": "23",
+    "Strength Growth": "5",
+    "Magic Growth": "11",
+    "Dexterity Growth": "6",
+    "Speed Growth": "7",
+    "Luck Growth": "6",
+    "Defense Growth": "4",
+    "Resistance Growth": "8",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Hilda": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": [
+      "Minor Crest of Goneril"
+    ],
+    "Personal Ability": "Advocate",
+    "House": "GD",
+    "HP": "29",
+    "Strength": "10",
+    "Magic": "5",
+    "Dexterity": "5",
+    "Speed": "8",
+    "Luck": "6",
+    "Defense": "6",
+    "Resistance": "3",
+    "Charm": "7",
+    "HP Growth": "29",
+    "Strength Growth": "10",
+    "Magic Growth": "5",
+    "Dexterity Growth": "5",
+    "Speed Growth": "8",
+    "Luck Growth": "6",
+    "Defense Growth": "6",
+    "Resistance Growth": "3",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Leonie": {
+    "Gender": "Female",
+    "Level": "1",
+    "Crest": "None",
+    "Personal Ability": "Rivalry",
+    "House": "GD",
+    "HP": "26",
+    "Strength": "9",
+    "Magic": "5",
+    "Dexterity": "8",
+    "Speed": "9",
+    "Luck": "6",
+    "Defense": "7",
+    "Resistance": "2",
+    "Charm": "7",
+    "HP Growth": "26",
+    "Strength Growth": "9",
+    "Magic Growth": "5",
+    "Dexterity Growth": "8",
+    "Speed Growth": "9",
+    "Luck Growth": "6",
+    "Defense Growth": "7",
+    "Resistance Growth": "2",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Seteth": {
+    "Gender": "Male",
+    "Level": "23",
+    "Crest": [
+      "Crest of Cichol"
+    ],
+    "Personal Ability": "Guardian (ability)",
+    "House": "Faculty",
+    "HP": "48",
+    "Strength": "27",
+    "Magic": "15",
+    "Dexterity": "20",
+    "Speed": "19",
+    "Luck": "12",
+    "Defense": "21",
+    "Resistance": "8",
+    "Charm": "20",
+    "HP Growth": "48",
+    "Strength Growth": "27",
+    "Magic Growth": "15",
+    "Dexterity Growth": "20",
+    "Speed Growth": "19",
+    "Luck Growth": "12",
+    "Defense Growth": "21",
+    "Resistance Growth": "8",
+    "Charm Growth": "20",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Flayn": {
+    "Gender": "Female",
+    "Level": "11",
+    "Crest": [
+      "Crest of Cethleann"
+    ],
+    "Personal Ability": "Lily's Poise",
+    "House": "Faculty",
+    "HP": "28",
+    "Strength": "8",
+    "Magic": "15",
+    "Dexterity": "12",
+    "Speed": "9",
+    "Luck": "8",
+    "Defense": "7",
+    "Resistance": "19",
+    "Charm": "16",
+    "HP Growth": "28",
+    "Strength Growth": "8",
+    "Magic Growth": "15",
+    "Dexterity Growth": "12",
+    "Speed Growth": "9",
+    "Luck Growth": "8",
+    "Defense Growth": "7",
+    "Resistance Growth": "19",
+    "Charm Growth": "16",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Felix",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Hanneman": {
+    "Gender": "Male",
+    "Level": "15",
+    "Crest": [
+      "Minor Crest of Indech"
+    ],
+    "Personal Ability": "Crest Scholar",
+    "House": "Faculty",
+    "HP": "32",
+    "Strength": "10",
+    "Magic": "20",
+    "Dexterity": "13",
+    "Speed": "9",
+    "Luck": "9",
+    "Defense": "7",
+    "Resistance": "17",
+    "Charm": "11+3",
+    "HP Growth": "32",
+    "Strength Growth": "10",
+    "Magic Growth": "20",
+    "Dexterity Growth": "13",
+    "Speed Growth": "9",
+    "Luck Growth": "9",
+    "Defense Growth": "7",
+    "Resistance Growth": "17",
+    "Charm Growth": "11+3",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Marianne",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Manuela": {
+    "Gender": "Female",
+    "Level": "15",
+    "Crest": "None",
+    "Personal Ability": "Infirmary Master",
+    "House": "Faculty",
+    "HP": "34",
+    "Strength": "14",
+    "Magic": "14",
+    "Dexterity": "13",
+    "Speed": "16",
+    "Luck": "12",
+    "Defense": "8",
+    "Resistance": "15",
+    "Charm": "15+1",
+    "HP Growth": "34",
+    "Strength Growth": "14",
+    "Magic Growth": "14",
+    "Dexterity Growth": "13",
+    "Speed Growth": "16",
+    "Luck Growth": "12",
+    "Defense Growth": "8",
+    "Resistance Growth": "15",
+    "Charm Growth": "15+1",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Sylvain",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Flayn",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Gilbert": {
+    "Gender": "Male",
+    "Level": "26",
+    "Crest": "None",
+    "Personal Ability": "Veteran Knight",
+    "House": "Faculty",
+    "HP": "61",
+    "Strength": "26",
+    "Magic": "10",
+    "Dexterity": "17",
+    "Speed": "2",
+    "Luck": "10",
+    "Defense": "30",
+    "Resistance": "7",
+    "Charm": "16+3",
+    "HP Growth": "61",
+    "Strength Growth": "26",
+    "Magic Growth": "10",
+    "Dexterity Growth": "17",
+    "Speed Growth": "2",
+    "Luck Growth": "10",
+    "Defense Growth": "30",
+    "Resistance Growth": "7",
+    "Charm Growth": "16+3",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Annette",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "B"
+      }
+    ]
+  },
+  "Alois": {
+    "Gender": "Male",
+    "Level": "21",
+    "Crest": "None",
+    "Personal Ability": "Compassion",
+    "House": "Faculty",
+    "HP": "50",
+    "Strength": "27",
+    "Magic": "8",
+    "Dexterity": "12",
+    "Speed": "15",
+    "Luck": "12",
+    "Defense": "18",
+    "Resistance": "8",
+    "Charm": "16+5",
+    "HP Growth": "50",
+    "Strength Growth": "27",
+    "Magic Growth": "8",
+    "Dexterity Growth": "12",
+    "Speed Growth": "15",
+    "Luck Growth": "12",
+    "Defense Growth": "18",
+    "Resistance Growth": "8",
+    "Charm Growth": "16+5",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hanneman",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Catherine": {
+    "Gender": "Female",
+    "Level": "7",
+    "Crest": [
+      "Crest of Charon"
+    ],
+    "Personal Ability": "Fighting Spirit",
+    "House": "Faculty",
+    "HP": "33",
+    "Strength": "19",
+    "Magic": "8",
+    "Dexterity": "13",
+    "Speed": "18",
+    "Luck": "10",
+    "Defense": "13",
+    "Resistance": "8",
+    "Charm": "6",
+    "HP Growth": "33",
+    "Strength Growth": "19",
+    "Magic Growth": "8",
+    "Dexterity Growth": "13",
+    "Speed Growth": "18",
+    "Luck Growth": "10",
+    "Defense Growth": "13",
+    "Resistance Growth": "8",
+    "Charm Growth": "6",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lorenz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Gilbert",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Shamir": {
+    "Gender": "Female",
+    "Level": "11",
+    "Crest": "None",
+    "Personal Ability": "Survival Instinct",
+    "House": "Faculty",
+    "HP": "33",
+    "Strength": "18",
+    "Magic": "8",
+    "Dexterity": "21",
+    "Speed": "14",
+    "Luck": "17",
+    "Defense": "12",
+    "Resistance": "8",
+    "Charm": "10+3",
+    "HP Growth": "33",
+    "Strength Growth": "18",
+    "Magic Growth": "8",
+    "Dexterity Growth": "21",
+    "Speed Growth": "14",
+    "Luck Growth": "17",
+    "Defense Growth": "12",
+    "Resistance Growth": "8",
+    "Charm Growth": "10+3",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hubert",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Caspar",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Dedue",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Raphael",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Leonie",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Alois",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Catherine",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Cyril",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Cyril": {
+    "Gender": "Male",
+    "Level": "9",
+    "Crest": "None",
+    "Personal Ability": "Aptitude",
+    "House": "Faculty",
+    "HP": "28",
+    "Strength": "10",
+    "Magic": "7",
+    "Dexterity": "11",
+    "Speed": "11",
+    "Luck": "10",
+    "Defense": "7",
+    "Resistance": "4",
+    "Charm": "7",
+    "HP Growth": "28",
+    "Strength Growth": "10",
+    "Magic Growth": "7",
+    "Dexterity Growth": "11",
+    "Speed Growth": "11",
+    "Luck Growth": "10",
+    "Defense Growth": "7",
+    "Resistance Growth": "4",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Petra",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Ignatz",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Seteth",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Manuela",
+        "Max Rank": "B"
+      },
+      {
+        "Unit": "Shamir",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Jeritza": {
+    "Gender": "Male",
+    "Level": "27",
+    "Crest": [
+      "Minor Crest of Lamine"
+    ],
+    "Personal Ability": "Murderous Intent",
+    "House": "Faculty",
+    "HP": "53",
+    "Strength": "32",
+    "Magic": "18",
+    "Dexterity": "15",
+    "Speed": "27",
+    "Luck": "12",
+    "Defense": "24",
+    "Resistance": "18",
+    "Charm": "10",
+    "HP Growth": "53",
+    "Strength Growth": "32",
+    "Magic Growth": "18",
+    "Dexterity Growth": "15",
+    "Speed Growth": "27",
+    "Luck Growth": "12",
+    "Defense Growth": "24",
+    "Resistance Growth": "18",
+    "Charm Growth": "10",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Yuri": {
+    "Gender": "Male",
+    "Level": "3",
+    "Crest": [
+      "Crest of Aubin"
+    ],
+    "Personal Ability": "Honorable Spirit",
+    "House": "AW",
+    "HP": "25",
+    "Strength": "11",
+    "Magic": "7",
+    "Dexterity": "8",
+    "Speed": "10",
+    "Luck": "8",
+    "Defense": "6",
+    "Resistance": "8",
+    "Charm": "9",
+    "HP Growth": "25",
+    "Strength Growth": "11",
+    "Magic Growth": "7",
+    "Dexterity Growth": "8",
+    "Speed Growth": "10",
+    "Luck Growth": "8",
+    "Defense Growth": "6",
+    "Resistance Growth": "8",
+    "Charm Growth": "9",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Bernadetta",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dorothea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ingrid",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Balthus": {
+    "Gender": "Male",
+    "Level": "3",
+    "Crest": [
+      "Crest of Chevalier"
+    ],
+    "Personal Ability": "King of Grappling",
+    "House": "AW",
+    "HP": "29",
+    "Strength": "12",
+    "Magic": "6",
+    "Dexterity": "5",
+    "Speed": "8",
+    "Luck": "3",
+    "Defense": "8",
+    "Resistance": "5",
+    "Charm": "5",
+    "HP Growth": "29",
+    "Strength Growth": "12",
+    "Magic Growth": "6",
+    "Dexterity Growth": "5",
+    "Speed Growth": "8",
+    "Luck Growth": "3",
+    "Defense Growth": "8",
+    "Resistance Growth": "5",
+    "Charm Growth": "5",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Claude",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Lysithea",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hilda",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Constance": {
+    "Gender": "Female",
+    "Level": "3",
+    "Crest": [
+      "Crest of Noa"
+    ],
+    "Personal Ability": "Circadian Beat",
+    "House": "AW",
+    "HP": "23",
+    "Strength": "5",
+    "Magic": "12",
+    "Dexterity": "7",
+    "Speed": "7",
+    "Luck": "4",
+    "Defense": "3",
+    "Resistance": "5",
+    "Charm": "7",
+    "HP Growth": "23",
+    "Strength Growth": "5",
+    "Magic Growth": "12",
+    "Dexterity Growth": "7",
+    "Speed Growth": "7",
+    "Luck Growth": "4",
+    "Defense Growth": "3",
+    "Resistance Growth": "5",
+    "Charm Growth": "7",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Edelgard",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ferdinand",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Mercedes",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Jeritza",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Hapi",
+        "Max Rank": "A"
+      }
+    ]
+  },
+  "Hapi": {
+    "Gender": "Female",
+    "Level": "3",
+    "Crest": [
+      "Crest of Timotheos"
+    ],
+    "Personal Ability": "Monstrous Appeal",
+    "House": "AW",
+    "HP": "27",
+    "Strength": "7",
+    "Magic": "12",
+    "Dexterity": "9",
+    "Speed": "7",
+    "Luck": "4",
+    "Defense": "4",
+    "Resistance": "8",
+    "Charm": "5",
+    "HP Growth": "27",
+    "Strength Growth": "7",
+    "Magic Growth": "12",
+    "Dexterity Growth": "9",
+    "Speed Growth": "7",
+    "Luck Growth": "4",
+    "Defense Growth": "4",
+    "Resistance Growth": "8",
+    "Charm Growth": "5",
+    "Supports": [
+      {
+        "Unit": "Byleth (M)",
+        "Max Rank": "S"
+      },
+      {
+        "Unit": "Byleth (F)",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Dimitri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Linhardt",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Ashe",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Yuri",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Balthus",
+        "Max Rank": "A"
+      },
+      {
+        "Unit": "Constance",
+        "Max Rank": "A"
+      }
+    ]
+  }
+}

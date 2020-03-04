@@ -1,2260 +1,2494 @@
 {
   "Byleth (M)": [
-    [
-      "Edelgard",
-      "S"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "S"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "S"
-    ],
-    [
-      "Dorothea",
-      "S"
-    ],
-    [
-      "Petra",
-      "S"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "S"
-    ],
-    [
-      "Annette",
-      "S"
-    ],
-    [
-      "Ingrid",
-      "S"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "S"
-    ],
-    [
-      "Marianne",
-      "S"
-    ],
-    [
-      "Hilda",
-      "S"
-    ],
-    [
-      "Leonie",
-      "S"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Flayn",
-      "S"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Manuela",
-      "S"
-    ],
-    [
-      "Gilbert",
-      "S"
-    ],
-    [
-      "Alois",
-      "S"
-    ],
-    [
-      "Catherine",
-      "S"
-    ],
-    [
-      "Shamir",
-      "S"
-    ],
-    [
-      "Cyril",
-      "A"
-    ],
-    [
-      "Rhea",
-      "S"
-    ],
-    [
-      "Sothis",
-      "S"
-    ]
+    {
+      "Unit": "Yuri",
+      "Max Rank":  "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Rhea",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Sothis",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Jeritza",
+      "Max Rank":  "S"
+    }
   ],
   "Byleth (F)": [
-    [
-      "Edelgard",
-      "S"
-    ],
-    [
-      "Hubert",
-      "S"
-    ],
-    [
-      "Ferdinand",
-      "S"
-    ],
-    [
-      "Linhardt",
-      "S"
-    ],
-    [
-      "Caspar",
-      "S"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "S"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "S"
-    ],
-    [
-      "Dedue",
-      "S"
-    ],
-    [
-      "Felix",
-      "S"
-    ],
-    [
-      "Ashe",
-      "S"
-    ],
-    [
-      "Sylvain",
-      "S"
-    ],
-    [
-      "Mercedes",
-      "S"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Claude",
-      "S"
-    ],
-    [
-      "Lorenz",
-      "S"
-    ],
-    [
-      "Raphael",
-      "S"
-    ],
-    [
-      "Ignatz",
-      "S"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Seteth",
-      "S"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "S"
-    ],
-    [
-      "Manuela",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "S"
-    ],
-    [
-      "Alois",
-      "S"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ],
-    [
-      "Cyril",
-      "S"
-    ],
-    [
-      "Rhea",
-      "S"
-    ],
-    [
-      "Sothis",
-      "S"
-    ]
+    {
+      "Unit": "Yuri",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Rhea",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Sothis",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Jeritza",
+      "Max Rank":  "S"
+    }
   ],
   "Edelgard": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Petra",
-      "B"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Manuela",
-      "A"
-    ]
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    }
   ],
   "Hubert": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "B"
-    ],
-    [
-      "Caspar",
-      "B"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "B"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Ferdinand": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "B"
-    ],
-    [
-      "Caspar",
-      "B"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "B"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Manuela",
-      "A"
-    ]
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    }
   ],
   "Linhardt": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "B"
-    ],
-    [
-      "Ferdinand",
-      "B"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "B"
-    ],
-    [
-      "Catherine",
-      "A"
-    ]
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    }
   ],
   "Caspar": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "B"
-    ],
-    [
-      "Ferdinand",
-      "B"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Raphael",
-      "B"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Bernadetta": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "B"
-    ],
-    [
-      "Petra",
-      "B"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Ingrid",
-      "B"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Alois",
-      "A"
-    ]
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Jeritza",
+      "Max Rank":  "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    }
   ],
   "Dorothea": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "B"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Manuela",
-      "A"
-    ]
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    }
   ],
   "Petra": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Edelgard",
-      "B"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "B"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Alois",
-      "B"
-    ],
-    [
-      "Shamir",
-      "B"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Dimitri": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "B"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Raphael",
-      "B"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "A"
-    ],
-    [
-      "Alois",
-      "B"
-    ],
-    [
-      "Catherine",
-      "A"
-    ]
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    }
   ],
   "Dedue": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Felix",
-      "B"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Felix": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "B"
-    ],
-    [
-      "Ashe",
-      "B"
-    ],
-    [
-      "Sylvain",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Seteth",
-      "B"
-    ],
-    [
-      "Flayn",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    }
   ],
   "Ashe": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "B"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "B"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Sylvain": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Bernadetta",
-      "B"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "B"
-    ],
-    [
-      "Dedue",
-      "B"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Annette",
-      "B"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "B"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Marianne",
-      "B"
-    ],
-    [
-      "Hilda",
-      "B"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Flayn",
-      "B"
-    ],
-    [
-      "Manuela",
-      "B"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "B"
+    }
   ],
   "Mercedes": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Hilda",
-      "B"
-    ],
-    [
-      "Alois",
-      "A"
-    ],
-    [
-      "Cyril",
-      "B"
-    ]
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Jeritza",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "B"
+    }
   ],
   "Annette": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Hilda",
-      "B"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "A"
+    }
   ],
   "Ingrid": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "B"
-    ],
-    [
-      "Dorothea",
-      "B"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "B"
-    ],
-    [
-      "Annette",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Catherine",
-      "B"
-    ]
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "B"
+    }
   ],
   "Claude": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "B"
-    ],
-    [
-      "Ignatz",
-      "B"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ],
-    [
-      "Cyril",
-      "B"
-    ]
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "B"
+    }
   ],
   "Lorenz": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Ferdinand",
-      "B"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Raphael",
-      "B"
-    ],
-    [
-      "Ignatz",
-      "B"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Manuela",
-      "A"
-    ],
-    [
-      "Catherine",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    }
   ],
   "Raphael": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Caspar",
-      "B"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "B"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Claude",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "B"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Ignatz": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Claude",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "B"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ],
-    [
-      "Cyril",
-      "B"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "B"
+    }
   ],
   "Lysithea": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Annette",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Marianne",
-      "B"
-    ],
-    [
-      "Hilda",
-      "B"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Catherine",
-      "B"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Marianne": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    }
   ],
   "Hilda": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "B"
-    ],
-    [
-      "Annette",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Leonie": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Bernadetta",
-      "B"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Marianne",
-      "B"
-    ],
-    [
-      "Hilda",
-      "B"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Alois",
-      "A"
-    ],
-    [
-      "Catherine",
-      "B"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Seteth": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Felix",
-      "B"
-    ],
-    [
-      "Ingrid",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "B"
-    ],
-    [
-      "Manuela",
-      "A"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Flayn": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Felix",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Manuela",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Felix",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    }
   ],
   "Hanneman": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Hubert",
-      "B"
-    ],
-    [
-      "Linhardt",
-      "B"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Marianne",
-      "A"
-    ],
-    [
-      "Seteth",
-      "B"
-    ],
-    [
-      "Manuela",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Alois",
-      "B"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Marianne",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "B"
+    }
   ],
   "Manuela": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Edelgard",
-      "A"
-    ],
-    [
-      "Ferdinand",
-      "A"
-    ],
-    [
-      "Dorothea",
-      "A"
-    ],
-    [
-      "Sylvain",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Flayn",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Alois",
-      "A"
-    ],
-    [
-      "Cyril",
-      "B"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Sylvain",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Flayn",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "B"
+    }
   ],
   "Gilbert": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Dedue",
-      "B"
-    ],
-    [
-      "Ashe",
-      "B"
-    ],
-    [
-      "Annette",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "B"
-    ],
-    [
-      "Manuela",
-      "B"
-    ],
-    [
-      "Alois",
-      "B"
-    ],
-    [
-      "Catherine",
-      "B"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Annette",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "B"
+    }
   ],
   "Alois": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Bernadetta",
-      "A"
-    ],
-    [
-      "Petra",
-      "B"
-    ],
-    [
-      "Dimitri",
-      "B"
-    ],
-    [
-      "Mercedes",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Hanneman",
-      "B"
-    ],
-    [
-      "Manuela",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hanneman",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Catherine": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Linhardt",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Dimitri",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Ingrid",
-      "B"
-    ],
-    [
-      "Lorenz",
-      "A"
-    ],
-    [
-      "Lysithea",
-      "B"
-    ],
-    [
-      "Leonie",
-      "B"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Gilbert",
-      "B"
-    ],
-    [
-      "Alois",
-      "A"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lorenz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Gilbert",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Shamir": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "A"
-    ],
-    [
-      "Hubert",
-      "A"
-    ],
-    [
-      "Caspar",
-      "A"
-    ],
-    [
-      "Petra",
-      "B"
-    ],
-    [
-      "Dedue",
-      "A"
-    ],
-    [
-      "Claude",
-      "A"
-    ],
-    [
-      "Raphael",
-      "A"
-    ],
-    [
-      "Ignatz",
-      "A"
-    ],
-    [
-      "Leonie",
-      "A"
-    ],
-    [
-      "Alois",
-      "A"
-    ],
-    [
-      "Catherine",
-      "A"
-    ],
-    [
-      "Cyril",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hubert",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Caspar",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Dedue",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Raphael",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Leonie",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Alois",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Catherine",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Cyril",
+      "Max Rank": "A"
+    }
   ],
   "Cyril": [
-    [
-      "Byleth (M)",
-      "A"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ],
-    [
-      "Petra",
-      "A"
-    ],
-    [
-      "Ashe",
-      "A"
-    ],
-    [
-      "Mercedes",
-      "B"
-    ],
-    [
-      "Claude",
-      "B"
-    ],
-    [
-      "Ignatz",
-      "B"
-    ],
-    [
-      "Lysithea",
-      "A"
-    ],
-    [
-      "Hilda",
-      "A"
-    ],
-    [
-      "Seteth",
-      "A"
-    ],
-    [
-      "Manuela",
-      "B"
-    ],
-    [
-      "Shamir",
-      "A"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Petra",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Ignatz",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Seteth",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Manuela",
+      "Max Rank": "B"
+    },
+    {
+      "Unit": "Shamir",
+      "Max Rank": "A"
+    }
   ],
   "Rhea": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    }
   ],
   "Sothis": [
-    [
-      "Byleth (M)",
-      "S"
-    ],
-    [
-      "Byleth (F)",
-      "S"
-    ]
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    }
+  ],
+  "Jeritza": [
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    }
+  ],
+  "Yuri": [
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Bernadetta",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dorothea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ingrid",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    }
+  ],
+  "Balthus": [
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Claude",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Lysithea",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hilda",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    }
+  ],
+  "Constance": [
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Edelgard",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ferdinand",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Mercedes",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Jeritza",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Hapi",
+      "Max Rank": "A"
+    }
+  ],
+  "Hapi": [
+    {
+      "Unit": "Byleth (M)",
+      "Max Rank": "S"
+    },
+    {
+      "Unit": "Byleth (F)",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Dimitri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Linhardt",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Ashe",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Yuri",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Balthus",
+      "Max Rank": "A"
+    },
+    {
+      "Unit": "Constance",
+      "Max Rank": "A"
+    }
   ]
 }
