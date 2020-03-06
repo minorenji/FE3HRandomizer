@@ -58,6 +58,19 @@ def get_unit_stats(unit_name: str):
         'Defense Growth': 0,
         'Resistance Growth': 0,
         'Charm Growth': 0,
+        'Skills': {
+            'Sword': '',
+            'Lance': '',
+            'Axe': '',
+            'Bow': '',
+            'Brawl': '',
+            'Reason': '',
+            'Faith': '',
+            'Authority': '',
+            'Heavy Armor': '',
+            'Riding': '',
+            'Flying': ''
+        },
         'Supports': [{}]
     }
     """
@@ -110,13 +123,15 @@ def get_unit_stats(unit_name: str):
 
     # Get crest
     crest = soup.find_all('th', attrs={'style': 'border: 2px solid #b0b0b0; border-top-left-radius: 5px; '
-                                            '-moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; '
-                                            '-khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; '
-                                            '-o-border-top-left-radius: 5px; border-bottom-left-radius: 5px; '
-                                            '-moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: '
-                                            '5px; -khtml-border-bottom-left-radius: 5px; '
-                                            '-icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: '
-                                            '5px;; background: #232855'})[1].find_next_sibling('td')
+                                                '-moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; '
+                                                '-khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: '
+                                                '5px; '
+                                                '-o-border-top-left-radius: 5px; border-bottom-left-radius: 5px; '
+                                                '-moz-border-radius-bottomleft: 5px; '
+                                                '-webkit-border-bottom-left-radius: '
+                                                '5px; -khtml-border-bottom-left-radius: 5px; '
+                                                '-icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: '
+                                                '5px;; background: #232855'})[1].find_next_sibling('td')
     if crest.get_text() == '--\n':
         base_stats['Crest'] = "None"
     else:
@@ -124,8 +139,9 @@ def get_unit_stats(unit_name: str):
 
     # Get personal ability
     ability = \
-    soup.find_all(attrs={'style': 'border-spacing: 3px; background: transparent'})[0].tbody.find_all('tr')[1].find_all(
-        'td')[1].find_all('a')[1]['title']
+        soup.find_all(attrs={'style': 'border-spacing: 3px; background: transparent'})[0].tbody.find_all('tr')[
+            1].find_all(
+            'td')[1].find_all('a')[1]['title']
     base_stats['Personal Ability'] = ability
 
     # Get house
@@ -173,6 +189,27 @@ def get_unit_stats(unit_name: str):
         'Charm Growth': stats[7]
     })
 
+    # Get skill levels
+    skills_table = soup.find('td', attrs={
+        'style': 'border: 1px solid #b0b0b0; background: #232855'}).parent.find_all('td')
+
+    # print(skills_table)
+    # skills_table = unit_table.tr.find_all('td')[2].table.tbody.find_all('tr')[6].find_all('td')
+    skills = [skill.get_text().strip('\n') for skill in skills_table]
+    base_stats['Skills'] = {
+        'Sword': skills[0],
+        'Lance': skills[1],
+        'Axe': skills[2],
+        'Bow': skills[3],
+        'Brawl': skills[4],
+        'Reason': skills[5],
+        'Faith': skills[6],
+        'Authority': skills[7],
+        'Heavy Armor': skills[8],
+        'Riding': skills[9],
+        'Flying': skills[10]
+    }
+
     # Get supports
     with open('References/Supports.json', 'r') as f:
         supports = json.load(f)
@@ -217,5 +254,5 @@ def compile_unit_stats():
 
 
 if __name__ == "__main__":
-    get_abilities()
+    compile_unit_stats()
     pass

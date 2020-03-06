@@ -1,19 +1,13 @@
 import json
 
-with open('References/Units.json', 'r') as f:
+with open('References/Unitsbk.json', 'r') as f:
     base_stats = json.load(f)
 
 
 class Unit:
-    def __init__(self, name, file_path=None):
-        self.base_stats = base_stats[name]
-        self.basic_info = {
-            'Gender': self.base_stats['Gender'],
-            'Crests': self.base_stats['Crest'],
-            'House': self.base_stats['House'],
-            'Personal Ability': self.base_stats['Personal Ability']
-        }
+    def __init__(self, name):
         self.current_stats = {
+            'Level': 0,
             'HP': 0,
             'Strength': 0,
             'Magic': 0,
@@ -33,8 +27,13 @@ class Unit:
             'Resistance Growth': 0,
             'Charm Growth': 0,
         }
+
+        self.base_stats = {}
         for key in self.current_stats.keys():
+            self.base_stats[key] = base_stats[name][key]
             self.current_stats[key] = self.base_stats[key]
+        self.basic_info = {key: base_stats[name][key] for key in base_stats[name].keys() & {'Gender', 'Crest', 'House',
+                                                                                            'Personal Ability'}}
         self.skills = {
             'Sword': '',
             'Lance': '',
@@ -48,3 +47,16 @@ class Unit:
             'Riding': '',
             'Flying': '',
         }
+
+    def export_to_file(self, fp):
+        with open(fp, 'w') as outfile:
+            unit_data = {
+                'Current Stats': self.current_stats,
+                'Skills': self.skills
+            }
+            json.dump(unit_data, outfile)
+
+    def load_from_file(self, fp):
+        with open(fp, 'r') as f:
+            unit_data = json.load(f)
+            self.current_stats = unit_data['Skills']

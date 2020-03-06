@@ -25,6 +25,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "6",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "D+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Yuri",
@@ -202,6 +215,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "6",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "D+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Yuri",
@@ -379,6 +405,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "4",
     "Charm Growth": "10",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "D",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "D",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Constance",
@@ -460,6 +499,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "4",
     "Charm Growth": "9",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "D+",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Hapi",
@@ -553,6 +605,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "4",
     "Charm Growth": "8",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "D",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E+",
+      "Flying": "E+"
+    },
     "Supports": [
       {
         "Unit": "Balthus",
@@ -644,6 +709,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "7",
     "Charm Growth": "6",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E+",
+      "Brawl": "E",
+      "Reason": "D",
+      "Faith": "E",
+      "Authority": "E+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -717,6 +795,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "2",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "D",
+      "Axe": "E+",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Constance",
@@ -810,6 +901,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "9",
     "Charm Growth": "3",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E+",
+      "Faith": "D+",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Hapi",
@@ -901,6 +1005,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "2",
     "Charm Growth": "4",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "D",
+      "Bow": "E",
+      "Brawl": "E+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -990,6 +1107,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "2",
     "Charm Growth": "6",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E+",
+      "Axe": "E",
+      "Bow": "D",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Yuri",
@@ -1089,6 +1219,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "7",
     "Charm Growth": "8",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "D",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Yuri",
@@ -1180,6 +1323,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "2",
     "Charm Growth": "6",
+    "Skills": {
+      "Sword": "D+",
+      "Lance": "E",
+      "Axe": "E+",
+      "Bow": "E+",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "D"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1267,6 +1423,19 @@
     "Defense Growth": "8",
     "Resistance Growth": "1",
     "Charm Growth": "4",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E+",
+      "Axe": "D+",
+      "Bow": "E",
+      "Brawl": "E+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "D",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1344,6 +1513,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "3",
     "Charm Growth": "5",
+    "Skills": {
+      "Sword": "D",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E+",
+      "Brawl": "E+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1431,6 +1613,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "6",
     "Charm Growth": "5",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E+",
+      "Bow": "D",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Hapi",
@@ -1524,6 +1719,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "2",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "D",
+      "Axe": "D",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1625,6 +1833,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "9",
     "Charm Growth": "8",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E+",
+      "Faith": "D",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Constance",
@@ -1722,6 +1943,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "4",
     "Charm Growth": "6",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E+",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "D+",
+      "Faith": "E",
+      "Authority": "E+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1815,6 +2049,19 @@
     "Defense Growth": "5",
     "Resistance Growth": "8",
     "Charm Growth": "8",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "D",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "D"
+    },
     "Supports": [
       {
         "Unit": "Yuri",
@@ -1912,6 +2159,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "6",
     "Charm Growth": "3",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "D",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E+",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -1999,6 +2259,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "1",
     "Charm Growth": "4",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E+",
+      "Bow": "E",
+      "Brawl": "D",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "D",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2086,6 +2359,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "6",
     "Charm Growth": "4",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "D",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2176,6 +2462,19 @@
     "Defense Growth": "3",
     "Resistance Growth": "4",
     "Charm Growth": "5",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "D",
+      "Faith": "E+",
+      "Authority": "E+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Balthus",
@@ -2277,6 +2576,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "8",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "D+",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2366,6 +2678,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "3",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E+",
+      "Axe": "D",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Balthus",
@@ -2461,6 +2786,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "2",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "D+",
+      "Axe": "E",
+      "Bow": "E+",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E+",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2554,6 +2892,19 @@
     "Defense Growth": "21",
     "Resistance Growth": "8",
     "Charm Growth": "20",
+    "Skills": {
+      "Sword": "D+",
+      "Lance": "B+",
+      "Axe": "B",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "B+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "C"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2631,6 +2982,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "19",
     "Charm Growth": "16",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E+",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "C+",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "D"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2712,6 +3076,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "17",
     "Charm Growth": "11+3",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "C+",
+      "Brawl": "E",
+      "Reason": "B",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2791,6 +3168,19 @@
     "Defense Growth": "8",
     "Resistance Growth": "15",
     "Charm Growth": "15+1",
+    "Skills": {
+      "Sword": "C+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "B",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "D"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2870,6 +3260,19 @@
     "Defense Growth": "30",
     "Resistance Growth": "7",
     "Charm Growth": "16+3",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "B+",
+      "Axe": "B+",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D+",
+      "Heavy Armor": "B",
+      "Riding": "C",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -2937,6 +3340,19 @@
     "Defense Growth": "18",
     "Resistance Growth": "8",
     "Charm Growth": "16+5",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "A",
+      "Bow": "E",
+      "Brawl": "B",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "C",
+      "Heavy Armor": "C",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3014,6 +3430,19 @@
     "Defense Growth": "13",
     "Resistance Growth": "8",
     "Charm Growth": "6",
+    "Skills": {
+      "Sword": "A",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "C",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3097,6 +3526,19 @@
     "Defense Growth": "12",
     "Resistance Growth": "8",
     "Charm Growth": "10+3",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "C+",
+      "Axe": "E",
+      "Bow": "A",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3176,6 +3618,19 @@
     "Defense Growth": "7",
     "Resistance Growth": "4",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "E",
+      "Axe": "C+",
+      "Bow": "C",
+      "Brawl": "E",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3253,6 +3708,19 @@
     "Defense Growth": "24",
     "Resistance Growth": "18",
     "Charm Growth": "10",
+    "Skills": {
+      "Sword": "B+",
+      "Lance": "A+",
+      "Axe": "C+",
+      "Bow": "D",
+      "Brawl": "C+",
+      "Reason": "D",
+      "Faith": "E",
+      "Authority": "B",
+      "Heavy Armor": "E",
+      "Riding": "A",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3302,6 +3770,19 @@
     "Defense Growth": "6",
     "Resistance Growth": "8",
     "Charm Growth": "9",
+    "Skills": {
+      "Sword": "D+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "E+",
+      "Faith": "D",
+      "Authority": "D+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3363,6 +3844,19 @@
     "Defense Growth": "8",
     "Resistance Growth": "5",
     "Charm Growth": "5",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "D+",
+      "Bow": "E",
+      "Brawl": "D+",
+      "Reason": "E",
+      "Faith": "E",
+      "Authority": "E+",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3424,6 +3918,19 @@
     "Defense Growth": "3",
     "Resistance Growth": "5",
     "Charm Growth": "7",
+    "Skills": {
+      "Sword": "E+",
+      "Lance": "E",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "D+",
+      "Faith": "E",
+      "Authority": "D",
+      "Heavy Armor": "E",
+      "Riding": "E",
+      "Flying": "D"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
@@ -3489,6 +3996,19 @@
     "Defense Growth": "4",
     "Resistance Growth": "8",
     "Charm Growth": "5",
+    "Skills": {
+      "Sword": "E",
+      "Lance": "D",
+      "Axe": "E",
+      "Bow": "E",
+      "Brawl": "E",
+      "Reason": "D+",
+      "Faith": "E",
+      "Authority": "E",
+      "Heavy Armor": "E",
+      "Riding": "D",
+      "Flying": "E"
+    },
     "Supports": [
       {
         "Unit": "Byleth (M)",
